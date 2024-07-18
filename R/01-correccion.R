@@ -1,4 +1,8 @@
 
+# Analisis de factores alatorios en las distancias recorridas mediante
+# mixed-effects models
+
+
 library(lme4)
 library(MuMIn)
 library(readr)

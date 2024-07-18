@@ -1,1 +1,1 @@
-Analisis distancias recorridas por anfibios mediante modelos lineales generalizados considerando factores aleatorios y fijos.
+Analisis de distancias recorridas por anfibios mediante modelos lineales generalizados considerando factores aleatorios y fijos.

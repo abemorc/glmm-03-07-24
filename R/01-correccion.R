@@ -11,6 +11,8 @@ library(car)
 library(broom)
 
 
+
+
 # Cargar datos
 dfDistancias <- read_csv("Data/glmm_distances.csv",
                            col_types = cols(Fecha = col_date(format = "%d/%m/%Y"))
